@@ -1,9 +1,3 @@
-# acr-extension-name
+# acr-cpp-header-precompilacao
 
-Arquivo config.json
-
-```json
-{
-
-}
-```
+Extensao que verifica se os arquivos ".h" possuem o #pragma ou o #ifdef FILENAME_H
